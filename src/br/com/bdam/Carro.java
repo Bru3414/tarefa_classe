@@ -2,6 +2,7 @@ package br.com.bdam;
 
 public class Carro {
 
+	// Variaveis do objeto
 	private String modelo;
 	private int ano;
 	private int velocidadeMaxima;
